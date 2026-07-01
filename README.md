@@ -10,4 +10,4 @@ GroupMaker Community is an ABSEL Community resource. As such, the application ca
 2. Publications.md: A list of related ABSEL Proceedings publications.
 3. absel2026-framegame.ppsx: Presentation slides of the first publication.
 4. absel2026-readytoplay.ppsx: Presentation slides of the second publication.
-5. markup_language-v3.pdf: Description of Assignment Markup Language, a scripting language for defining GroupMaker assignments.
+5. assignment_markup_language.pdf: Description of Assignment Markup Language, a scripting language for defining GroupMaker assignments.
